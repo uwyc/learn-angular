@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.generator": "Ninja",
+    "cmake.debugConfig": {
+        "console": "externalTerminal",
+        "logging": {
+            "moduleLoad": false,
+        }
+    },
+}
